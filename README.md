@@ -1,6 +1,10 @@
 # travelling_app
 
-A new Flutter project.
+this is the UI of a travelling app that would have:
+1) Gmail acc Login to save your data 
+2) this app could have an API to get your location and find nearby hotels and beautiful places to visit .
+
+
 
 ## Getting Started
 
